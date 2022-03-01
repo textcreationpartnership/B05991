@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A strange wonder in Wiltshire, affirmed by three ministers that were eye-witnesses of this following relation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05991</idno>
+            <idno type="STC">Wing S5921</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[245]</idno>
+            <idno type="EEBO-CITATION">99885060</idno>
+            <idno type="PROQUEST">ocm99885060</idno>
+            <idno type="VID">182914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182914)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[246])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A strange wonder in Wiltshire, affirmed by three ministers that were eye-witnesses of this following relation.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Cutler in Little-Britain.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Give ear and attention, and you shall hear ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Miracles --  Poetry --  Early works to 1800.</term>
+               <term>Wiltshire (England) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182914:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>A ſtrange Wonder in Wiltſhire, Affirmed by Three Miniſters that were Eye-witneſſes of this following RELATION.</head>
+            <p>
+               <figure>
+                  <head>a Cow &amp; Calfes</head>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <head>The Firſt Part.</head>
+               <lg>
+                  <l>GIve ear and attention, and you ſhall hear</l>
+                  <l>Of a ſtrange Wonder that hapned in <hi>Wiltſhire,</hi>
+                  </l>
+                  <l>The marvelous thing that ere was in Print,</l>
+                  <l>Faithfully written and nothing falſe in't.</l>
+                  <l>It is of a man in his Country ſo rare,</l>
+                  <l>That none now are living with him could compare,</l>
+                  <l>His dealing it is ſo upright and juſt,</l>
+                  <l>I will nere be forgot, though be turned to duſt.</l>
+               </lg>
+               <lg>
+                  <l>Last year he was bleſt with a plentiful crop,</l>
+                  <l>His Barns were crammed from bottom to top,</l>
+                  <l>He made no advantage, all Grain being dear,</l>
+                  <l>But glad was to ſee the Poor people appear;</l>
+                  <l>To whom be ſold cheap, but a Crown was his rate,</l>
+                  <l>When others for a Buſhel of Eight did not bate,</l>
+                  <l>But worſhipt their Barns and kept cloſe the door,</l>
+                  <l>For fear to ſhew Charity unto the Poor.</l>
+               </lg>
+               <lg>
+                  <l>But this Man he was of a ſpirit ſo ſweet,</l>
+                  <l>Being a very great help to all he did meet,</l>
+                  <l>Great was his Pity, his Bounty alſo,</l>
+                  <l>Exact he would not of Friend nor of Foe.</l>
+                  <l>But freely at half-Rates his Corn he did ſell,</l>
+                  <l>As all juſt people hereafter will tell.</l>
+                  <l>By the exacting of others the diſtreſt came ſo faſt,</l>
+                  <l>His Barns at thoſe low rates were emptied at laſt.</l>
+               </lg>
+               <lg>
+                  <l>That he had no Corn for his houſe, but he bought,</l>
+                  <l>And yet all the Countrys over he ſought,</l>
+                  <l>To help to ſupply the wants of the needy,</l>
+                  <l>In City or Country no man ſo ſpeedy.</l>
+                  <l>He bought a freſh Stock at the Market-rates,</l>
+                  <l>All the Poor near him anticipates.</l>
+                  <l>Still at the half-Rates that the Poor may live,</l>
+                  <l>He ſold to them, though twice more he did give.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part.</head>
+               <lg>
+                  <l>OBſerve with me this following ſtrain,</l>
+                  <l>And me ſhall all agree,</l>
+                  <l>That i'th' remembrance of his name,</l>
+                  <l>I th' Chronicle he muſt be:</l>
+                  <l>For nere did man the like before,</l>
+                  <l>Or ere will be do leſs,</l>
+                  <l>But ſtill ſtrive daily to do more,</l>
+                  <l>His works God ſo doth bleſs.</l>
+               </lg>
+               <lg>
+                  <l>That whenſoere his Plow is going,</l>
+                  <l>The ill ſeaſons of the weather,</l>
+                  <l>Forbear and hold up whilſt he's ſowing,</l>
+                  <l>And ſtill will keep together.</l>
+                  <l>The Example there is ſo well known,</l>
+                  <l>Obſerved in this year,</l>
+                  <l>That on his ground there ſcarce hath grown</l>
+                  <l>A ſtraw with ſingle Ear.</l>
+               </lg>
+               <lg>
+                  <l>But moſt were double eared and full,</l>
+                  <l>Some treble eared grew,</l>
+                  <l>None in his Harveſt was ſo dull,</l>
+                  <l>But what was inch thick too.</l>
+                  <l>In ſeveral parts it ſtill appears</l>
+                  <l>By very honeſt men,</l>
+                  <l>As few Straws had but ſingle Ears,</l>
+                  <l>There were others which had ten.</l>
+               </lg>
+               <lg>
+                  <l>And all ſo full and largely corn'd,</l>
+                  <l>That thrice the Crop it yields,</l>
+                  <l>And bravely hath ſix Barns adorn'd</l>
+                  <l>More than their neighbouring fields,</l>
+                  <l>Whoſe Husbandmen that till their ground,</l>
+                  <l>And of this Corn do buy,</l>
+                  <l>Hope that their Lands will all abound</l>
+                  <l>And no more barren lie.</l>
+               </lg>
+               <lg>
+                  <l>His Cattel alſo have encreaſt</l>
+                  <l>More than his Neighbours do,</l>
+                  <l>Who have no young ones from their Beaſt,</l>
+                  <l>Whilſt one Cow brings him two.</l>
+                  <l>In thanks to God for's bleſſing great,</l>
+                  <l>The Poor for to relieve,</l>
+                  <l>Of Barly, By and of good wheat</l>
+                  <l>Three Strick a week he'l give.</l>
+               </lg>
+               <lg>
+                  <l>Now unto all I give advice,</l>
+                  <l>Be kind unto the Poor,</l>
+                  <l>And you will find God won't be nice</l>
+                  <l>To multiply your Store.</l>
+                  <l>The Example here before is ſhown</l>
+                  <l>I hope will practis'd be,</l>
+                  <l>That ſo we all at Heavens I brone</l>
+                  <l>May meet Eternity,</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Cutler</hi> in <hi>Little-Britain.</hi> 1674.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
